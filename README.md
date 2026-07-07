@@ -11,8 +11,9 @@
 </p>
 
 <div align="center">
-  <div>I worked as software developer @ Atome Financial, creator of <a href="https://github.com/Atome-FE/llama-node">llama-node</a></div>
-  <div>Passioned in Web / System / Sound development</div>
+  <div>I worked as software developer @ <a href="https://www.vertexflow.com">Vertexflow</a>. Ex. Atome Financial</div>
+  <div>I am creator of <a href="https://github.com/Atome-FE/llama-node">llama-node</a></div>
+  <div>Passioned in AI / Web / System / Sound development</div>
 </div>
 
 ---
